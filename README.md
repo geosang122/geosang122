@@ -7,5 +7,5 @@ Here are some ideas to get you started:
 
 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=psh030122)](https://solved.ac/psh030122/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={psh030122}&theme=dark)
-<img src="http://mazandi.herokuapp.com/api?handle={psh030122}&theme=dark"/>
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=psh030122&theme=dark)
+<img src="http://mazandi.herokuapp.com/api?handle=psh030122&theme=dark"/>
