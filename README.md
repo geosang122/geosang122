@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=psh030122)](https://solved.ac/psh030122/)
 
-![](https://leetcard.jacoblin.cool/geosang122?theme=wtf&font=Noto%20Sans%20Palmyrene&ext=heatmap?width=500&height=500)
+![](https://leetcard.jacoblin.cool/geosang122?theme=wtf&font=Noto%20Sans%20Palmyrene&ext=heatmap?width=300&height=300)
